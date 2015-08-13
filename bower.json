@@ -1,0 +1,24 @@
+{
+  "name": "Drag",
+  "version": "1.0.0",
+  "authors": [
+    "Gustavo Cordeiro de Oliveira <oliv.dg@gmail.com>"
+  ],
+  "description": "Salvar noticias com drag&drop no menu lateral",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "holderjs": "git@github.com:imsky/holder.git#~2.8.0",
+    "animate.css": "~3.3.0"
+  }
+}
